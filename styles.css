@@ -18,6 +18,7 @@ body{
     background: white;
     border-radius: 15px;
     padding: 30px 30px 25px;
+    margin: 10px;
 }
 .wrapper header{
     font-size: 35px;
